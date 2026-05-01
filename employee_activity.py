@@ -11,9 +11,9 @@ from email.mime.text import MIMEText
 from datetime import datetime
 
 # ------------------ EMAIL CONFIG ------------------
-EMAIL = "anuastra05@gmail.com"
-PASSWORD = "yksq tfyr bjqf ntxo"   # ⚠️ NO SPACES
-HR_EMAIL = "anusenthilkumar13@gmail.com"
+EMAIL = " "
+PASSWORD = " "   # ⚠️ NO SPACES
+HR_EMAIL = " "
 
 # ------------------ MEDIAPIPE SETUP ------------------
 mp_face_detection = mp.solutions.face_detection
